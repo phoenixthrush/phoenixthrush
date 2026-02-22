@@ -9,19 +9,19 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixthrush&theme=blueberry&hide_border=true&layout=compact&langs_count=8&card_width=320" />
 </a><br><br>
 
-<samp>I have been interested in coding since 2016. It started when a friend showed me a small Batch script with a Matrix-style effect when I was in Year 6. It was only a few lines of code that printed random numbers in green, but it immediately caught my interest.</samp>
+<samp>I have been passionate about coding since 2016, when a friend showed me a small Batch script with a Matrix-style effect. It was just a few lines of code that printed random numbers in green, but it sparked my interest in programming.</samp>
 
-<samp>After that, I started learning Linux and how computers work in general. I built my own PC and later got a Raspberry Pi, which I used to experiment with open source projects like music servers and NAS setups. I also rented VPS servers to run Tor relays, which got me into server administration.</samp>
+<samp>Since then, I have explored Linux, built my own PC, and experimented with a Raspberry Pi running open-source projects such as music servers and NAS setups. I also rented VPS servers to run Tor relays, which introduced me to server administration.</samp>
 
-<samp>Most of what I learned came from online resources, especially YouTube. Over time, this led me mainly to Python and web development. Python is my main language now, but for projects that need to be compiled, I also use C and sometimes Rust.</samp>
+<samp>Most of my learning has come from online resources, particularly YouTube. Over time, I focused mainly on Python and web development, while also working with C and Rust for projects that require compiled languages.</samp>
 
-<samp>I am interested in technical topics in general, with a stronger focus on cybersecurity. I try to learn new things regularly. At the moment, I am learning Rust and occasionally do some reverse engineering using Ghidra.</samp>
+<samp>I am generally interested in technical topics, with a stronger focus on cybersecurity. I make it a point to learn new skills regularly, currently exploring Rust and performing occasional reverse engineering using Ghidra.</samp>
 
-<samp>I used Gentoo in the past, but I now use Arch Linux. I like trying out new technologies and prefer open source software over proprietary alternatives. I have also done several internships, which gave me a better understanding of what day-to-day work in IT actually looks like.</samp>
+<samp>I have experience with Gentoo and currently use Arch Linux. I enjoy trying out new technologies and prefer open-source software whenever possible. Several internships have given me insight into professional IT work and reinforced my practical skills.</samp>
 
-<samp>I am currently studying Practical Computer Science in Germany, focusing on Java application development and systems technology. Outside of computing, I am also interested in music and games. I especially enjoy story driven games like NieR: Automata and Life is Strange, as well as older titles such as Tomb Raider and Resident Evil. Games with choices and consequences, like Detroit: Become Human, also stand out to me.</samp>
+<samp>I am currently studying Practical Computer Science in Germany, focusing on Java application development and systems technology. Outside of computing, I enjoy music and story-driven games such as NieR: Automata, Life is Strange, Tomb Raider, and Resident Evil, as well as games with choices and consequences like Detroit: Become Human.</samp>
 
-<samp>When it comes to the future, I am not entirely sure what direction I will take. It could be software development, or something completely different outside of technology.</samp>
+<samp>Looking ahead, I am open to various paths in technology, whether software development or other IT-related fields, and I am eager to continue learning and contributing to meaningful projects.</samp>
 
 <p align="right">
   <img src="https://count.getloli.com/get/@phoenixthrush?theme=rule34">
