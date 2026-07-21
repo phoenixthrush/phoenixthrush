@@ -1,16 +1,17 @@
 # <samp>About Me</samp>
 
-[![wakatime](https://wakatime.com/badge/user/ebc8f6ad-7a1c-4f3a-ad43-cc402feab5fc.svg)](https://wakatime.com/@ebc8f6ad-7a1c-4f3a-ad43-cc402feab5fc) - since Sep 14, 2024
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=phoenixthrush&theme=blueberry&hide_border=true" />
+<a href="https://github-stats-extended.vercel.app/api?username=phoenixthrush&show_icons=true&include_all_commits=true&theme=transparent">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=phoenixthrush&show_icons=true&include_all_commits=true&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixthrush&theme=blueberry&hide_border=true&layout=compact&langs_count=8&card_width=320" />
+<a href="https://wakatime.com/@phoenixthrush">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=phoenixthrush&langs_count=6&display_format=percent&theme=transparent" />
 </a>
 
-<br>
-<br>
+### <samp>Links</samp>
+
+[![Website](https://img.shields.io/badge/Website-Visit-blue?logo=googlechrome&logoColor=white)](https://www.phoenixthrush.com)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/BfDvrKd8V5)
+[![PayPal Donate](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal)](https://www.paypal.com/paypalme/justnekochan)
 
 ---
 
