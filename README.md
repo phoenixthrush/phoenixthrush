@@ -11,7 +11,6 @@
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue?logo=googlechrome&logoColor=white)](https://www.phoenixthrush.com)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/BfDvrKd8V5)
-[![PayPal Donate](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal)](https://www.paypal.com/paypalme/justnekochan)
 
 ---
 
