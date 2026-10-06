@@ -11,6 +11,7 @@
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue?logo=googlechrome&logoColor=white)](https://www.phoenixthrush.com)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/BfDvrKd8V5)
+[![GitHub Sponsors](https://img.shields.io/badge/♥%20GitHub%20Sponsors-Visit-EA4AAA)](https://github.com/sponsors/phoenixthrush)
 
 ---
 
